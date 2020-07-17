@@ -1,0 +1,248 @@
+Fake GPS Pro
+Fixed
+Route
+Joystick
+Dashboard
+Fixed mode
+Route mode
+Joystick mode
+Dashboard
+MODE OFF
+MODE ON
+START
+STOP
+Longitude
+Latitude
+UNDO
+Cancel
+Cancel and close
+Continue
+Done
+Stop
+Proceed
+Close
+OK
+Yes
+No
+OK, sure
+No, thanks
+Not really
+Save
+Share
+Ad
+Location disabled
+Your device location is disabled. Please enable it in the device settings to make sure the app works properly.
+Cannot start mode
+Fixed mode is on. Please stop it before starting this mode.
+Route mode is on. Please stop it before starting this mode.
+Joystick mode is on. Please stop it before starting this mode.
+Mock location error
+This app needs to be selected as the mock location app in the device setting to work properly. Would you like to know how to enable it?
+About modes
+Fixed mode changes the location of the device to a fake fixed coordinate. It simulates staying somewhere and not moving. You can use fixed mode to spoof your real location and pretend you are somewhere else, therefore apps like social media, messengers, games, and … use your fake location as a real one.
+Route mode changes the location of the device to a predetermined route. It can simulate walking, cycling, and driving from a starting point to a destination with different speeds and paths based on the selected direction type. This mode can be used in any route-based or tracking apps.
+Joystick mode is the most advanced mode in location spoofing. It supports walking, cycling, driving, and flying speed types. You can go anywhere, in any direction and control your movement with a joystick on the device screen. This mode can be used in any kind of apps, especially location-based games. 
+Search…
+No suggestions found
+Suggested location
+Map type
+Please select a map type.
+Default
+Satellite
+Terrain
+Google Maps is not installed
+No address
+Google Play services error
+Selected location
+Saved locations
+Location deleted.
+Restart fixed mode for changes to take effect.
+
+Select a location on the map by either placing a pin or searching an address.
+Please give the selected location a name or address.
+Selected location name:
+Selected location
+Location has been changed to:
+Device location changed.
+Fixed mode
+Shows fixed mode service notification.
+Location preview
+Selected route
+Saved routes
+Route deleted.
+Restart route mode for changes to take effect.
+Selected starting point:
+Selected destination:
+Please give both the starting point and destination a name or address.
+Direction type
+Please select a direction type. It affects the route direction and speed.
+Walking
+Cycling
+Driving
+The app will try to find the best route based on elements such as sidewalk availability.
+The app will try to find the best route based on elements such as bicycle lanes.
+The app will try to find the best route based on elements such as road availability.
+The direction type cannot be changed in the process of finding and adding a route.
+Selected starting point name
+Selected destination name
+Select a starting point on the map by either placing a pin or searching an address.
+Now, select a destination by either placing a pin on the map or searching an address.
+Find route
+Start over
+Finding route
+Fake GPS is trying to find a route between the selected starting point and destination based on the direction type. Please wait…
+Oops!
+There was an issue finding a route.
+You have reached your limit of 3 tries in a minute (API limit). Please wait for a minute and try again.
+There is no possible route between the selected starting point and destination based on %1$s direction type.
+Requested denied. You might be using a modified version of the app. Please contact the developer.
+An unknown error happened. Please try again.
+An error happened trying to read the route data. Please try again.
+An error happened trying to show the route. Please try again.
+Slow or no internet connection. Please check your internet settings
+Due to API limits, you can try finding a route 3 times in every minute.
+Route mode
+Shows route mode service notification.
+Current route:
+Route mode is on.
+Route preview
+Starting point
+Joystick size
+Speed options
+The location movement would be very slow and simulates the speed of walking normally.
+The location movement would be slow and simulates the speed of riding a bicycle.
+The location movement would be fast and simulates the speed of driving a car on a freeway.
+The location movement would be very fast and simulates the speed of a flying airplane.
+Restart joystick mode for changes to take effect
+Display permission
+This app needs to be allowed to show the joystick controller over other apps on the screen. Please allow it to display over other apps on the next page.
+Selected starting point:
+Please give the starting point a name or address
+Selected starting point name
+Joystick mode
+Shows joystick mode service notification.
+Joystick mode starting point:
+Joystick mode is on.
+This app overwrites your current location to a fake location so any third-party apps, websites, or services would think you are there.
+Copyright 2020
+Evezzon
+Open source licenses
+Premium
+More apps
+Privacy policy
+Terms of use
+Feedback
+Rate
+Play Store not installed
+Are you enjoying IntruderDetector?
+Would you mind giving us some feedback?
+How about rating on the Play Store, then?
+Please do not remove this info as it helps the developer to identify issues.
+Please write your feedback here:
+Send Feedback
+FAQ
+What does this app do?
+This app teleports your device to any place in the world you want! it sets a fake location for your device so any third-party apps, websites, or services would think you are there.
+What are the requirements?
+The latest version of Google Play services and Google Maps must be installed on your device. You need a proper internet connection. Also, you need to set this app as the mock location app in the device developer options settings. Read the instructions to find out how to set the mock location app.
+Is it OK to change my location in any app?
+Please read the policy and terms of use for each app or game carefully. Some games might send you a warning, suspend or terminate your account if they realize you are changing your real location.
+How can I delete a saved location or route?
+You can delete a saved location or route from the list by swiping it to the left. You cannot delete the selected location or route.
+How can I see a saved location or route on map?
+You can see a saved location or route by swiping it to the right in the list.
+What features are free?
+The fixed mode feature is totally free. The route and joystick modes are premium features and you need to upgrade to the premium version to use these features freely. Although, based on your location you might have a chance to try the premium features by watching an ad (if there is any available).
+When and where can the modes be used?
+Fixed mode can be used in social media, messenger, dating, or any location-based apps or games like Tinder, Facebook, Instagram, Family Locator, and…\nRoute mode can be used in any kind of route-based and tracking apps or games. \nJoystick mode can be used in any kind of apps and games including fixed location-based or route-based apps.
+My Location has been locked to the last fake location I used, how can I fix that?
+It is not a bug and your GPS sensor is not broken. There are some ways to fix this issue:\nYou can try turning your device location off and on several times.\nIf it did not work you can try restarting your device.
+Instructions
+There might be various approaches for enabling developer options based on the device manufacturer. If you could not enable or find the developer options based on the instructions page, try searching about it on search engines, you will find instructions written exclusively for your device.
+This app needs to be selected as the mock location app in the device setting to work properly. You need to do these instructions only once and the modes will be ready to use.
+Step 1
+Step 2
+Enable developer options
+Select mock location app
+Open developer options
+Open about phone
+Developer options are enabled in your device. You can skip this step.
+First, you need to enable "Developer options" on your device.\n• Tap on the "Open about device" button.\n• In the opened page, find "Build number" then tap on it up to 10 times repeatedly until you see a message that says you are now a developer!\n• Now "Developer options" must be added to your device setting menu or "System" submenu.
+You have selected this app as the mock location app. Enjoy using it!
+Before starting this step, make sure you have enabled the developer options. Now you need to select this app as the mock location app.\n• Tap on "Open developer options" button.\n• In the opened page, find "Select mock location app" under the "DEBUGGING" section and set this app as the mock location app.\n• If you do these instructions correctly, you will see a message on this page that says you have already selected this app as the mock location app.
+You are all set.\nEnjoy using the app.
+Settings
+Center
+Top left
+Top center
+Top right
+Center left
+Center right
+Bottom left
+Bottom center
+Bottom right
+App settings
+Theme
+Open Google Maps
+Open Google Maps automatically when modes start
+Show disabled location
+Show a warning message if your device location is disabled when service starts
+Manage notifications
+Manage displaying different notifications of the app
+Fixed mode
+Update interval (milliseconds)
+The interval between each location update request. Lower the value if your location keeps going back to the real location.
+Use altitude
+Use altitude for the spoofed location
+Altitude (meters)
+The altitude of the spoofed location
+Route mode
+Repeat route
+Repeat the selected route when it reaches the destination
+Joystick location
+Joystick mode
+Joystick opacity
+Transparency of the joystick controller
+Improve app
+Help Fake GPS improve user experience by automatically sending diagnostics and usage statistics.
+Dark
+Light
+Set by Battery Saver
+System
+No internet connection
+Slow or no internet connection. Map might not load properly.
+Slow or no internet connection. Map might not load properly.
+Ad was closed too early
+You can close the ad now
+Upgrade
+Watch ad
+Watch ad
+Premium feature
+Route mode is a premium feature but, you can use it by either watching a video ad or upgrading to premium.
+Route mode is a premium feature. Please upgrade to the premium version to use this feature.
+Adding routes is a premium feature but, you can try it once by watching a video ad or you can upgrade to premium.
+Adding routes is a premium feature. Please upgrade to the premium version to use this feature.
+Changing the starting point is a premium feature but, you can try it once by watching a video ad or you can upgrade to premium.
+Changing the starting point is a premium feature. Please upgrade to the premium version to use this feature.
+Joystick mode is a premium feature but, you can use it by either watching a video ad or upgrading to premium.
+Joystick mode is a premium feature. Please upgrade to the premium version to use this feature.
+Your feedback
+Matters
+Your support and voice are very important to us. We would love it if you leave us a review in the Play Store.
+Never
+Sure
+Later
+Premium
+Fake GPS Premium
+No ads
+Full access to route mode
+Full access to joystick mode
+Congratulations! You have the premium version of the app.
+We are waiting for the purchase validation. Sometimes, it can last several hours. If you have any questions, please contact the developer.
+Pending transaction
+You cannot buy this item again. You already own it or a previous purchase is still pending for validation. Please wait until it gets approved or declined. Questions? contact developer.
+Billing feature unavailable
+The billing feature is not available on your device. Please make sure the latest version of the Play Store is installed on your device and you are signed in. You will be able to purchase the premium version after resolving the issue.
+The billing feature is not available on your device. Please make sure the latest version of the Play Store is installed on your device and you are signed in. You will be able to purchase the premium version after resolving the issue. Do you wish to proceed?
+Get premium
+
