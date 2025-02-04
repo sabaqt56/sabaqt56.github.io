@@ -7,7 +7,7 @@ reddit.com
 # [bbc.com]
 bbc.com
 
-# [bbc.com]
+# [instagram.com]
 instagram.com
 
 
