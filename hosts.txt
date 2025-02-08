@@ -7,8 +7,7 @@ reddit.com
 # [bbc.com]
 bbc.com
 
-# [instagram.com]
-instagram.com
 
-
-
+# [voanews.com]
+voanews.com
+ir.voanews.com
